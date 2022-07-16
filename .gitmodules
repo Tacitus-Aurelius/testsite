@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/hugo-universal-theme"]
+	path = themes/hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme
+[submodule "themes/hugo-creative-portfolio-theme"]
+	path = themes/hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
